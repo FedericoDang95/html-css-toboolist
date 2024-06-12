@@ -2,8 +2,6 @@ body {
     background-color: #efefef;
 }
 
-.page-header {}
-
 .page-content {
     padding: 30px;
 
@@ -18,5 +16,7 @@ body {
 }
 
 .tag-editorial {
-    background-color: blue;
+    background-color: rgba(34, 34, 238, 0.723);
+    border-radius: 10px;
+    font-size: small;
 }
