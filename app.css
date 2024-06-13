@@ -2,6 +2,10 @@ body {
     background-color: #efefef;
 }
 
+.header {
+    padding: 10px 20px;
+}
+
 .page-content {
     padding: 30px;
 
@@ -16,7 +20,33 @@ body {
 }
 
 .tag-editorial {
-    background-color: rgba(34, 34, 238, 0.723);
-    border-radius: 10px;
-    font-size: small;
+    background-color: rgba(7, 62, 244, 0.633);
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+.tag-goals {
+    background-color: rgba(145, 10, 148, 0.825);
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+.title {
+    margin-top: 0px;
+    padding-top: 0%;
+
+}
+
+.setting {
+    margin: 0px;
+    padding-top: 0%;
+}
+
+.checkmark {
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid green;
+    border-radius: 50%;
+
 }
